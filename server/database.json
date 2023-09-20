@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "label": "Db updates",
+      "description": "Update the database to contain categories independently and get them",
+      "category": "programming",
+      "done": false
+    },
+    {
+      "id": 2,
+      "label": "Read service method returns",
+      "description": "Read the last todo value from service call",
+      "category": "cooking",
+      "done": false
+    },
+    {
+      "id": 3,
+      "label": "Db updates",
+      "description": "Update the database to contain categories independently and get them",
+      "category": "programming",
+      "done": false
+    },
+    {
+      "id": 4,
+      "label": "Db updates",
+      "description": "Update the database to contain categories independently and get them",
+      "category": "learning",
+      "done": false
+    },
+    {
+      "id": 5,
+      "label": "Db updates",
+      "description": "Update the database to contain categories independently and get them",
+      "category": "technology",
+      "done": false
+    }
+  ]
+}
